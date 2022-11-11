@@ -1,0 +1,23 @@
+# Name and UID
+My name is Chin-Wei Chang, and my UID is 733000679
+
+#Introduction
+This is a cache simulator with adjustable cache size, associativity and the block size. There are two different replacement policy. One is LRU and the other one is random.
+
+#Compile
+g++ -o name cache.cc
+
+#Run 
+./name test_case.txt
+##Cache Capacity, the capacity of the cache in kilobytes (an int):
+  enter an integer
+##Associativity, the associativity of the cache (an int):
+  enter an integer
+##Block Size, the size of a single cache block in bytes (an int):
+  enter an integer
+##Replacement Policythe, 'l' means LRU, 'r' means random:
+  enter 'l' for LRU, enter 'r' for random
+
+
+#Reference
+Text book.
