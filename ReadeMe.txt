@@ -6,7 +6,7 @@ This is a cache simulator with adjustable cache size, associativity and the bloc
 g++ -o name cache.cc
 
 #Run 
-./name test_case.txt
+./name trace/test_case.txt
 ##Cache Capacity, the capacity of the cache in kilobytes (an int):
   enter an integer
 ##Associativity, the associativity of the cache (an int):
