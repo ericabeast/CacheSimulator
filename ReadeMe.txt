@@ -1,5 +1,3 @@
-# Name and UID
-My name is Chin-Wei Chang, and my UID is 733000679
 
 #Introduction
 This is a cache simulator with adjustable cache size, associativity and the block size. There are two different replacement policy. One is LRU and the other one is random.
