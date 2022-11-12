@@ -1,6 +1,6 @@
 # CacheSimulator
 
-This cache simulator mimics the behavior of a hardware cache subsystem. A cache is used to reduce the average cost of accessing main mamory from the processor.
+This cache simulator is a software that mimics the behavior of a hardware cache subsystem. A cache is used to reduce the average cost of accessing main mamory from the processor.
 
 ## Inputs
 There are 4 inputs
